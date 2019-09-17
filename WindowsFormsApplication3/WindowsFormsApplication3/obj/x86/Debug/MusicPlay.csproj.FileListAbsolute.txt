@@ -1,0 +1,12 @@
+G:\所有项目\熊熊动听s\WindowsFormsApplication3  1.0\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+G:\所有项目\熊熊动听s\WindowsFormsApplication3  1.0\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+G:\所有项目\熊熊动听s\WindowsFormsApplication3  1.0\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Interop.WMPLib.dll
+G:\所有项目\熊熊动听s\WindowsFormsApplication3  1.0\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AxInterop.WMPLib.dll
+G:\所有项目\熊熊动听s\WindowsFormsApplication3  1.0\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\Interop.WMPLib.dll
+G:\所有项目\熊熊动听s\WindowsFormsApplication3  1.0\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\所有项目\熊熊动听s\WindowsFormsApplication3  1.0\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\MusicPlay.csproj.ResolveComReference.cache
+G:\所有项目\熊熊动听s\WindowsFormsApplication3  1.0\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Play.resources
+G:\所有项目\熊熊动听s\WindowsFormsApplication3  1.0\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+G:\所有项目\熊熊动听s\WindowsFormsApplication3  1.0\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\MusicPlay.csproj.GenerateResource.Cache
+G:\所有项目\熊熊动听s\WindowsFormsApplication3  1.0\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+G:\所有项目\熊熊动听s\WindowsFormsApplication3  1.0\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
