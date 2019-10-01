@@ -1,0 +1,47 @@
+C:\Users\Administrator\Desktop\酷猫播放器\酷猫播放器\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\酷猫播放器\酷猫播放器\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\酷猫播放器\酷猫播放器\obj\x86\Debug\酷猫播放器.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\酷猫播放器\酷猫播放器\bin\Debug\酷猫播放器.exe
+C:\Users\Administrator\Desktop\酷猫播放器\酷猫播放器\bin\Debug\酷猫播放器.pdb
+C:\Users\Administrator\Desktop\酷猫播放器\酷猫播放器\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\酷猫播放器\酷猫播放器\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\酷猫播放器\酷猫播放器\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\酷猫播放器\酷猫播放器\obj\x86\Debug\酷猫播放器.Form1.resources
+C:\Users\Administrator\Desktop\酷猫播放器\酷猫播放器\obj\x86\Debug\酷猫播放器.Properties.Resources.resources
+C:\Users\Administrator\Desktop\酷猫播放器\酷猫播放器\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\酷猫播放器\酷猫播放器\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\酷猫播放器\酷猫播放器\obj\x86\Debug\酷猫播放器.exe
+C:\Users\Administrator\Desktop\酷猫播放器\酷猫播放器\obj\x86\Debug\酷猫播放器.pdb
+C:\Documents and Settings\Administrator\桌面\酷猫播放器\酷猫播放器\obj\x86\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Administrator\桌面\酷猫播放器\酷猫播放器\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Administrator\桌面\酷猫播放器\酷猫播放器\obj\x86\Debug\酷猫播放器.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\酷猫播放器\酷猫播放器\obj\x86\Debug\酷猫播放器.exe
+C:\Documents and Settings\Administrator\桌面\酷猫播放器\酷猫播放器\obj\x86\Debug\酷猫播放器.pdb
+C:\Documents and Settings\Administrator\桌面\酷猫播放器\酷猫播放器\bin\Debug\酷猫播放器.exe
+C:\Documents and Settings\Administrator\桌面\酷猫播放器\酷猫播放器\bin\Debug\酷猫播放器.pdb
+C:\Documents and Settings\Administrator\桌面\酷猫播放器\酷猫播放器\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Administrator\桌面\酷猫播放器\酷猫播放器\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Administrator\桌面\酷猫播放器\酷猫播放器\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\酷猫播放器\酷猫播放器\obj\x86\Debug\酷猫播放器.Form1.resources
+C:\Documents and Settings\Administrator\桌面\酷猫播放器\酷猫播放器\obj\x86\Debug\酷猫播放器.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\酷猫播放器\酷猫播放器\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\酷猫播放器\酷猫播放器\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\酷猫播放器  1.0\酷猫播放器\酷猫播放器\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\酷猫播放器  1.0\酷猫播放器\酷猫播放器\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\酷猫播放器  1.0\酷猫播放器\酷猫播放器\obj\x86\Debug\酷猫播放器.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\酷猫播放器  1.0\酷猫播放器\酷猫播放器\obj\x86\Debug\酷猫播放器.exe
+C:\Users\Administrator\Desktop\酷猫播放器  1.0\酷猫播放器\酷猫播放器\obj\x86\Debug\酷猫播放器.pdb
+C:\Users\Administrator\Desktop\酷猫播放器  1.0\酷猫播放器\酷猫播放器\bin\Debug\酷猫播放器.exe
+C:\Users\Administrator\Desktop\酷猫播放器  1.0\酷猫播放器\酷猫播放器\bin\Debug\酷猫播放器.pdb
+C:\Users\Administrator\Desktop\酷猫播放器  1.0\酷猫播放器\酷猫播放器\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\酷猫播放器  1.0\酷猫播放器\酷猫播放器\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\酷猫播放器  1.0\酷猫播放器\酷猫播放器\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\酷猫播放器  1.0\酷猫播放器\酷猫播放器\obj\x86\Debug\酷猫播放器.Form1.resources
+C:\Users\Administrator\Desktop\酷猫播放器  1.0\酷猫播放器\酷猫播放器\obj\x86\Debug\酷猫播放器.Properties.Resources.resources
+C:\Users\Administrator\Desktop\酷猫播放器  1.0\酷猫播放器\酷猫播放器\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\酷猫播放器  1.0\酷猫播放器\酷猫播放器\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\所有项目\熊熊动听s\酷猫播放器  1.0\酷猫播放器\酷猫播放器\obj\x86\Debug\Interop.WMPLib.dll
+G:\所有项目\熊熊动听s\酷猫播放器  1.0\酷猫播放器\酷猫播放器\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\所有项目\熊熊动听s\酷猫播放器  1.0\酷猫播放器\酷猫播放器\obj\x86\Debug\酷猫播放器.csproj.ResolveComReference.cache
+G:\所有项目\熊熊动听s\酷猫播放器  1.0\酷猫播放器\酷猫播放器\obj\x86\Debug\酷猫播放器.exe
+G:\所有项目\熊熊动听s\酷猫播放器  1.0\酷猫播放器\酷猫播放器\obj\x86\Debug\酷猫播放器.pdb
